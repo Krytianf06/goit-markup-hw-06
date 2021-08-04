@@ -924,7 +924,7 @@ placeholder{
   border: 1px solid var(--secod-color-text);
   background: #2196F3;
   border-radius: 2px;
-  background-image: url(/images/icon/check.svg);
+  background-image: url(../images/icon/check.svg);
   background-size: auto, cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -962,9 +962,6 @@ placeholder{
   align-items: center;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
-}
-.modal__form-message::-webkit-input-placeholder {
-  background-color: gold;
 }
 
 
