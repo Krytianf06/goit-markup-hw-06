@@ -964,4 +964,15 @@ placeholder{
   color: rgba(255, 255, 255, 0.6);
 }
 
+.modal__form-message::-webkit-input-placeholder{
+  font-family:var(--main-font);
+  font-style: normal;
+  font-weight: var(--first-font-weight);
+  font-size: 12px;
+  line-height: 1.667;
+  letter-spacing: 0.01em;
+  color: rgba(117, 117, 117, 0.5);
+}
+
+
 
