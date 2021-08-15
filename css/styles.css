@@ -871,8 +871,8 @@ placeholder{
   transform: translateY(-50%);
   left: 15px;
   fill: var(--main-color-text);
-  width: 12px;
-  height: 12px;
+  max-width: 15px;
+  max-height: 13px;
   transition: fill 250ms linear;
 }
 
